@@ -1,6 +1,5 @@
 #Sanna B
-#501154179
-#Lab 3 Homework, Oct 2
+#Lab 3, Oct 2 2022
 
 def question_one(num): 
 #checks if an integer is pos, neg, or 0
