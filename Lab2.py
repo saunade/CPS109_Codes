@@ -1,5 +1,4 @@
-#program slices a string by creating a list that has the desired amount
-#of characters the user wants
+#program slices a string by creating a list that has the desired amount of characters the user wants
 
 def slice_string(word, slice): #function that slices string
   counter = 0
