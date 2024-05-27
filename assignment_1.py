@@ -1,5 +1,4 @@
 #Sanna Balouchi
-#501154179
 #Assignment 1
 
 #this program solves the repetitive calculations involving vectors in physics. gives the magnitude, unit vector, and sum/difference if needed
